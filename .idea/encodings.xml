@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/src/main/java/Clear_page_cache/Clear_page_cache.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cart/Cart_Servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cart/Del_All_Cart.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cart/Del_all_Cart_Servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cart/Get_images_max_id.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/cart/Save_images.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/distinguish/Distinguish_Visio_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/distinguish/Distinguish_servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/mysql_jdbc/JDBC.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/weights/Add_weight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/weights/Add_weights_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/weights/Del_weight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/weights/Del_weight_Dao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/weights/Del_weights_servlet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/weights/Get_weight_list.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
